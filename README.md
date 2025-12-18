@@ -1,4 +1,4 @@
-# Estha – Data Analytics Portfolio
+# Data Analytics Portfolio
 
 I’m a B.A.A. student (IT & Business Analytics) at HEC Montréal.  
 This repository showcases my projects in **SQL/T-SQL**, **Python (Pandas)**, **Tableau**, and **Excel**.

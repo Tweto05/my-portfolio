@@ -3,10 +3,10 @@
 LiveListing Database - DML
 
 Presented by: 
-	Champ-Long, Maxence 11332347
-	Pourcher, Simon 11335659
-	Tshiya,Estha Wamonakeba 11317258
-	Ward, Ben 11369514
+	Champ-Long, Maxence 
+	Pourcher, Simon 
+	Tshiya,Estha Wamonakeba 
+	Ward, Ben 
 ================================================================================
 Summary:
 	- 3 Property Types
